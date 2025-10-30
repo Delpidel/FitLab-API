@@ -349,4 +349,4 @@ Exemplo de response JSON
 
 ## Melhorias a serem aplicadas
 
-O projeto ficou dentro de uma pasta chamada fitlab_api, que não fica na raiz do projeto, necessitando da execução do comando cd fitlab_api para rodar a aplicação. Outra melhoria seria importar PDF da modelagem de dados para que o leitor não precisasse acessar o link do DBDiagram.
+O projeto ficou dentro de uma pasta chamada fitlab_api, que não fica na raiz do projeto, necessitando da execução do comando "cd fitlab_api" para rodar a aplicação. Outra melhoria seria importar PDF da modelagem de dados para que o leitor não precisasse acessar o link do DBDiagram.
